@@ -26,7 +26,8 @@ cocos2d之塔防游戏模型
 ================
 
 AirTower 
-  /game
+ 
+ 	/game
 		GameControl  游戏的各逻辑控制
 		GameLayer    游戏的主场景
 		GameEndLayer 游戏的结束画面
